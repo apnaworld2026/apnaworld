@@ -1,0 +1,50 @@
+body {
+    background-color: lightblue;
+    font-family: Arial,
+sans-serif;
+}
+
+header {
+    text-align: centre;
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+ nav {
+     background-color: white;
+     padding: 15px;
+     text-align: center;
+ }
+
+ nav a {
+     margin: 10px;
+     text-decoration: none;
+     font-weight: bold;
+ }
+
+ header h1 {
+     margin:0;
+     font-size: 36px;
+ }
+
+ header p { 
+     margin: 10px 0 0;
+     font-size: 18px;
+ }
+
+ section {
+     background-color: white;
+     margin: 20px;
+     padding: 20px;
+     border-radius: 10px:
+ }
+
+ section h2 {
+      margin-top: 0;
+ }
+ 
+ <header>
+     <h1>Apna World</h1>
+     <p>World of knowledge</p>
+ </header>
